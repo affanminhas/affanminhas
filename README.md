@@ -56,13 +56,24 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="120" align="center">
+  <img src="./assets/hisaabyaar-icon.png" width="88" alt="HisaabYaar icon" />
+</td>
+<td>
 
-<a href="https://github.com/affanminhas/hisaabyaar-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=affanminhas&repo=Python_todo_app&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HisaabYaar" />
-</a>
+### [HisaabYaar](https://github.com/affanminhas/hisaabyaar-web)
 
-</div>
+One-line description of what it does and who it's for.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<a href="https://www.hisaabyaar.pk"><img src="https://img.shields.io/badge/Live-hisaabyaar.pk-00C2A8?style=flat-square" /></a>
+
+</td>
+</tr>
+</table>
 
 <!--
   Swap these for your BEST repos once you've cleaned them up.
