@@ -32,7 +32,7 @@
 - 🌱 Currently going deep on **HisaabYaar (e.g. Flutter architecture, state management, backend with Supabase)**
 - ✍️ I write at **[Medium](https://medium.com/@affansultan901)**
 - 🤝 Open to collaborating on **open-source Flutter packages** and **developer tooling**
-- 📫 Reach me: **affansultan901@email.com** · DM on [WhatsApp](wa.me/923152044437)
+- 📫 Reach me: **affansultan901@email.com** · DM on [WhatsApp](https://api.whatsapp.com/send/?phone=923152044437&text&type=phone_number&app_absent=0)
 
 > 💡 *Ask me about Flutter widget performance, Dart async, or why your `setState` isn't rebuilding.*
 
