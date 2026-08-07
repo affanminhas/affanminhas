@@ -95,7 +95,7 @@ One-line description of what it does and who it's for.
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=affanminhas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+<img src="https://github-profile-trophy-psi-henna.vercel.app/?username=affanminhas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
