@@ -15,7 +15,7 @@
 
 <br/>
 
-<a href="https://www.hisaabyaar.pk"><img src="https://img.shields.io/badge/Website-thedailyaffan.com-00C2A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.hisaabyaar.pk"><img src="https://img.shields.io/badge/Website-hisaabyaar.pk-00C2A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://twitter.com/affan_minhas"><img src="https://img.shields.io/badge/X-@affan__minhas-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="mailto:affansultan901@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=affanminhas&label=Profile%20views&color=00C2A8&style=for-the-badge" alt="Profile views" />
