@@ -61,9 +61,6 @@
 <a href="https://github.com/affanminhas/hisaabyaar-web">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=affanminhas&repo=Python_todo_app&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HisaabYaar" />
 </a>
-<a href="https://github.com/affanminhas/Interest-Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=affanminhas&repo=Interest-Calculator&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Interest Calculator" />
-</a>
 
 </div>
 
