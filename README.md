@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<a href="https://github.com/affanminhas/Python_todo_app">
+<a href="https://github.com/affanminhas/dsdw_dental">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=affanminhas&repo=Python_todo_app&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Python Todo App" />
 </a>
 <a href="https://github.com/affanminhas/Interest-Calculator">
