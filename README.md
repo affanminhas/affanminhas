@@ -87,7 +87,7 @@ One-line description of what it does and who it's for.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-rust-phi-82.vercel.app/api?username=affanminhas&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2A8&icon_color=00C2A8" alt="GitHub stats" />
-<img height="165" src="github-readme-stats-rust-phi-82.vercel.app/api/top-langs/?username=affanminhas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2A8&hide=html,css" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-rust-phi-82.vercel.app/api/top-langs/?username=affanminhas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2A8&hide=html,css" alt="Top languages" />
 
 <br/><br/>
 
