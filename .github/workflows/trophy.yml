@@ -1,0 +1,37 @@
+# Renders the trophy strip to trophy.svg inside this repo.
+# No Vercel, no serverless function, no token expiry surprises.
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: "0 19 * * *"   # daily, 00:00 PKT
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: trophy.svg
+          theme: tokyonight
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git commit -m "chore: regenerate trophy" || exit 0
+          git push
