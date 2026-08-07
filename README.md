@@ -59,7 +59,7 @@
 <table>
 <tr>
 <td width="120" align="center">
-  <img src="./assets/hisaabyaar-icon.png" width="88" alt="HisaabYaar icon" />
+  <img src="./assets/app_icon.png" width="88" alt="HisaabYaar icon" />
 </td>
 <td>
 
