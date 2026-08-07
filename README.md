@@ -9,15 +9,15 @@
 <div align="center">
 
 <!-- ===== HEADER / TYPING BANNER ===== -->
-<a href="https://www.thedailyaffan.com">
+<a href="https://www.hisaabyaar.pk">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00C2A8&center=true&vCenter=true&width=650&lines=Affan+Minhas;Flutter+%26+Python+Developer;Building+things+that+don't+break;%22The+best+error+message+is+the+one+that+never+shows+up.%22" alt="Affan Minhas" />
 </a>
 
 <br/>
 
-<a href="https://www.thedailyaffan.com"><img src="https://img.shields.io/badge/Website-thedailyaffan.com-00C2A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.hisaabyaar.pk"><img src="https://img.shields.io/badge/Website-thedailyaffan.com-00C2A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://twitter.com/affan_minhas"><img src="https://img.shields.io/badge/X-@affan__minhas-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:affansultan901@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=affanminhas&label=Profile%20views&color=00C2A8&style=for-the-badge" alt="Profile views" />
 
 </div>
@@ -29,10 +29,10 @@
 - 🇵🇰 Software engineer from **Pakistan**, currently building at **[Blocship](https://github.com/affanminhas)**
 - 📱 I work mostly in **Flutter / Dart** — cross-platform apps that feel native on both sides
 - 🐍 Also comfortable in **Python**, and I like small tools that solve one problem well
-- 🌱 Currently going deep on **REPLACE_ME (e.g. Flutter architecture, state management, backend with FastAPI)**
-- ✍️ I write at **[thedailyaffan.com](https://www.thedailyaffan.com)**
+- 🌱 Currently going deep on **HisaabYaar (e.g. Flutter architecture, state management, backend with Supabase)**
+- ✍️ I write at **[Medium](https://medium.com/@affansultan901)**
 - 🤝 Open to collaborating on **open-source Flutter packages** and **developer tooling**
-- 📫 Reach me: **REPLACE_ME@email.com** · DM on [X](https://twitter.com/affan_minhas)
+- 📫 Reach me: **affansultan901@email.com** · DM on [WhatsApp](wa.me/923152044437)
 
 > 💡 *Ask me about Flutter widget performance, Dart async, or why your `setState` isn't rebuilding.*
 
